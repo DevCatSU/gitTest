@@ -1,5 +1,5 @@
 #!/bin/bash
 echo helloworld
-echo user 1
+echo I am old user
 
 
